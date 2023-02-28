@@ -1,0 +1,8 @@
+var brisa = {
+nombre:"Brisa",
+apellido: "Ortiz",
+edad: 20,
+nacionalidad: "Argentina",
+localidad: "Ezeiza",
+},
+json.stringify(brisa)
