@@ -1,0 +1,50 @@
+body {
+    background-color:mediumorchid;
+    
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+    margin-left: 30px;
+    font-size: x-large;
+    box-sizing: border-box; 
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    float: right;
+    margin-right: 10px;
+    border: 5px solid rebeccapurple;
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    border: 5px solid rebeccapurple ;
+    display: table;
+}
+
+#boton {
+    margin-left: 50px;
+    font-size: x-large;
+    background-color: rebeccapurple;
+    color: white;
+    border-style:dashed;
+}
+#boton2 {
+    margin-left: 50px;
+    font-size: x-large;
+    background-color: rebeccapurple;
+    color: white;
+    border-style:dotted;
+ } 
+
